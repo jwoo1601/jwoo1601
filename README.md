@@ -20,3 +20,4 @@
  - Thorough Testing (Unit testing, integration testing, and End-to-end testing)
  - Developer Experience (Minimize manual and tedious tasks by adopting automation so devs can focus on the core business logic)
  - Logging and Error Monitoring (Errors are mostly unexpected and can always occur so thorough logging must be in place)
+ - Proper Documentation (Document important and complex logic so others can understand easily)
