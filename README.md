@@ -1,17 +1,10 @@
 # Introduction
- A Full Stack Developer always __enthusiastic__ in learning new software technologies and best practices in building stable and scalable applications.
- 
- ## Primary Languages
-  C#, Typescript, Java, C++, Python, T-SQL
-  
- ## Primary Tech Stacks
-  ASP.NET, ASP.NET Core (MVC/Web API 2), Vue, React
+ A software engineer __enthusiastic__ in learning new software technologies and best practices in building stable and scalable applications.
   
  ## Current Interests
- - Microservices Architecture
- - CQRS Pattern
- - API Gateways
- - GraphQL
+ - Distributed systems (Distributed locks, transactions, and CRDTs in particular)
+ - Application of microservices architecture in different domains
+ - Theories of scalability and its application to distributed systems engineering
  
  ## Core Components that I value the most in Software Design:
  - Stability (Fault-tolerance Design)
